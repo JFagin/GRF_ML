@@ -1,7 +1,13 @@
 # Measuring the Substructure Mass Power Spectrum of 23 SLACS Strong Galaxy-Galaxy Lenses with CNNs
 
 Code for "Measuring the Substructure Mass Power Spectrum of 23 SLACS Strong Galaxy-Galaxy Lenses with Convolutional Neural Networks
-" [[arXiv]](https://arxiv.org/abs/2403.13881).
+" [[arXiv]](https://arxiv.org/abs/2403.13881). Here we train a convolutional neural network to predict the power spectrum parameters of the substructure mass power spectrum of 23 SLACS strong galaxy-galaxy lenses. Our method may be adapted to other substructure models and used to constrain warm dark matter theories. 
+
+## Background
+
+[Strongly lensed galaxies](https://en.wikipedia.org/wiki/Strong_gravitational_lensing) occur when a galaxy lens is along the line of sight between a source galaxy and the observer, sometimes creating so-called [Einstein rings](https://en.wikipedia.org/wiki/Einstein_ring). By analysing the shape of these strongly lensed galaxies, we can learn about the mass and distribution of matter in the lensing galaxy, including dark matter. The predominant $\Lambda$CDM
+
+
 
 ## Citation
 
