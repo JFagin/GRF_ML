@@ -5,7 +5,7 @@ Code for "Measuring the Substructure Mass Power Spectrum of 23 SLACS Strong Gala
 
 ## Background
 
-[Strongly lensed galaxies](https://en.wikipedia.org/wiki/Strong_gravitational_lensing) occur when a galaxy lens is along the line of sight between a source galaxy and the observer, sometimes creating so-called [Einstein rings](https://en.wikipedia.org/wiki/Einstein_ring). By analysing the shape of these strongly lensed galaxies, we can learn about the mass and distribution of matter in the lensing galaxy, including dark matter. The predominant $\Lambda$CDM
+[Strongly lensed galaxies](https://en.wikipedia.org/wiki/Strong_gravitational_lensing) occur when a galaxy lens is along the line of sight between a source galaxy and the observer, sometimes creating so-called [Einstein rings](https://en.wikipedia.org/wiki/Einstein_ring). By analysing the shape of these strongly lensed galaxies, we can learn about the mass and distribution of matter in the lensing galaxy, including dark matter. The predominant $\Lambda$ CDM
 
 
 
